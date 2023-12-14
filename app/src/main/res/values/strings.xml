@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">PantryPal</string>
+
+    <!-- Main -->
+    <string name="screen_main_bottom_navigation_home">Início</string>
+    <string name="screen_main_toolbar_home">Vencimento</string>
+    <string name="screen_main_bottom_navigation_location">Local</string>
+    <string name="screen_main_toolbar_location">Local</string>
+    <string name="screen_main_bottom_navigation_meal">Refeição</string>
+    <string name="screen_main_toolbar_meal">Refeição</string>
+    <string name="screen_main_bottom_navigation_shopping_list">Lista</string>
+    <string name="screen_main_toolbar_shopping_list">Lista de Compras</string>
+
+    <!-- Home -->
+    <string name="screen_home_btn_add">Adicionar um novo item</string>
+    <string name="screen_home_segment_item_current">Atual</string>
+    <string name="screen_home_segment_item_removed">Removido</string>
+    <string name="screen_home_food_option_discard">Descartar</string>
+    <string name="screen_home_food_option_shipping_list">Lista de compra</string>
+    <string name="screen_home_food_option_delete">Excluir</string>
+    <string name="screen_home_quantity_bottom_sheet_title">Quantidade</string>
+    <string name="screen_home_bottom_sheet_quantity_remove">Remover um item</string>
+    <string name="screen_home_bottom_sheet_quantity_add">Adicionar um item</string>
+
+    <!-- Add Food -->
+    <string name="screen_add_food_title">Cadastro</string>
+    <string name="screen_add_food_btn_done">Concluir Adição</string>
+    <string name="screen_add_food_btn_add_photo">Adicionar foto</string>
+    <string name="screen_add_food_bottom_sheet_item_camera">Camera</string>
+    <string name="screen_add_food_bottom_sheet_item_gallery">Galeria</string>
+
+    <!-- Add Location -->
+    <string name="screen_add_location_title">Adicionar local</string>
+
+    <!-- Shopping List -->
+    <string name="screen_shopping_list_segment_item_to_buy">Compra</string>
+    <string name="screen_shopping_list_segment_item_purchased">Adquirido</string>
+    <string name="screen_shopping_list_item_click_to_buy">Marcar como comprado</string>
+    <string name="screen_shopping_list_item_click_from_purchased">Marcar como não comprado</string>
+    <string name="screen_shopping_list_item_option_delete">Excluir</string>
+
+    <!-- Add Shopping Item -->
+    <string name="screen_add_shopping_item_title">Adicionar item</string>
+
+    <!-- Components -->
+    <string name="component_date_picker_placeholder">Selecione uma data</string>
+    <string name="component_meal_breakfast">Café da manhã</string>
+    <string name="component_meal_lunch">Almoço</string>
+    <string name="component_meal_dinner">Jantar</string>
+    <string name="component_meal_snack">Lanche</string>
+    <string name="screen_add_food_label_name">Nome</string>
+    <string name="screen_add_food_label_validate">Validade</string>
+    <string name="screen_add_food_label_quantity">Quantidade</string>
+    <string name="screen_add_food_location_dropdown_label">Local</string>
+    <string name="screen_add_food_location_dropdown_placeholder">Selecione um local</string>
+    <string name="screen_add_food_meal_dropdown_labe">Refeição</string>
+    <string name="screen_add_food_meal_dropdown_placeholder">Selecione uma refeição</string>
+    <string name="component_food_item_quantity">%1$s unidade%2$s</string>
+    <string name="component_food_item_quantity_empty">Sem unidades</string>
+    <string name="component_bottom_sheet_discard_food_item_message">Esse item acabou, gostaria de adicionar a lista de compras?</string>
+    <string name="component_bottom_sheet_discard_food_item_remove_btn">Excluir</string>
+    <string name="component_bottom_sheet_discard_food_item_add_shopping_list_btn">Lista de Compra</string>
+</resources>
